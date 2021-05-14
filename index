@@ -1,0 +1,10 @@
+cd C:\Users\Administrator\Desktop
+cd c:
+cd Users
+cd Administrator
+cd Desktop
+git clone https://github.com/lihao1010/text.git
+cd text
+git add .
+git commit -m 'upload'
+git push -u origin master
